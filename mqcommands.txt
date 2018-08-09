@@ -1,0 +1,5 @@
+strmqcfg --> start mq explorer
+dspmqver---> displays mq version
+dspmq --> to display all the existing queue mgrs
+strmqsvc --> starts mq service on windows
+crtmqm name ---> creates QM
